@@ -16,7 +16,7 @@ A simple, yet intuitive Kanban Board implemented using vanilla JavaScript, HTML,
 
 The Kanban Board application provides a visual representation to manage and track tasks through various stages of a workflow. Tasks, depicted through individual items, move from one column to another (e.g., "Not Started", "In Progress", "Completed") and can be interactively managed by the user.
 
-![Kanban Board Preview](./path-to-your-preview-image.png)
+[![Kanban Board Preview](https://fasteddyone.github.io/KanbanBoard/)](https://fasteddyone.github.io/KanbanBoard/)
 
 ## Features
 - **Drag and Drop**: Easily move items between different stages (columns).
